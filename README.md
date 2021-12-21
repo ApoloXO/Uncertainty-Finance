@@ -1,12 +1,11 @@
 # Uncertainty-Finance
-Created on Dec 15 2021
-
-Author: C. Alexander Grajales  
-Professor @ University of Antioquia, CO  
+Options prices and their delta and vega risks - Stochastic VS Uncertainty views
+Created on Dec 15 2021  
+Author: Carlos A. Grajales  
+Professor at University of Antioquia, Medellín, Colombia  
 <alexander.grajales@udea.edu.co>
 
 
-European options: uncertainty and stochastic views on prices and risks.  
 * See working paper:  
 Uncertainty and stochastic theories on European options valuation and their delta and vega risks
 
@@ -22,7 +21,8 @@ uc_sigma.txt: call vega risk under Liu's uncertain stock model
 sc.txt: call prices under Black and Scholes  
 sc_y.txt: call delta risk under Black and Scholes  
 sc_sigma.txt: call vega risk under Black and Scholes  
-io.mat: Matlab file with all the above outputs
+io.mat: Matlab file with all the above outputs  
+o_utst.xlsx: Excel file with summary of the outputs and visualization
 
 ******************************
 Folder: matlab_code
@@ -38,5 +38,5 @@ uncertain environments
 osparcity.m: output relative equality test  
 normsm.m: Metrics: Frobenius, norm1, norminf  
 ometric.m: output metrics  
-flagm.m: Flags (indicators where prices and risk are most appart from each
+flagm.m: Flags (indicators where prices and risk are most apart from each
 other under stochastic and uncertainty environment)

@@ -1,5 +1,5 @@
 # Uncertainty-Finance
-Options prices and their delta and vega risks - Stochastic VS Uncertainty views  
+European options risk by uncertainty theory  
 Created on Jan 1 2022  
 Author: Carlos A. Grajales  
 Professor at Universidad de Antioquia, Medellín, Colombia  

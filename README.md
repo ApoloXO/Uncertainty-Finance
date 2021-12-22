@@ -7,7 +7,8 @@ Professor at Universidad de Antioquia, Medellín, Colombia
 
 
 * See working paper:  
-Uncertainty and stochastic theories on European options valuation and their delta and vega risks
+Uncertainty and stochastic theories on European options valuation and their delta and vega risks  
+..... (details to be announced soon)
 
 ***********************
 Folder: data

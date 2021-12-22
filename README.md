@@ -11,7 +11,7 @@ Uncertainty and stochastic theories on European options valuation and their delt
 ..... (details to be announced soon)
 
 ***********************
-Folder: data
+Folder: Data
 ***********************
 
 ### Contents:
@@ -29,7 +29,7 @@ extra_images.zip: 13 extra Matlab figures for put options consisting of
 ..... prices, delta and vega risk, and the norm metrics - Frobenius, norm1, norminf
 
 ******************************
-Folder: matlab_code
+Folder: MatlabCodes
 ******************************
 
 ### Contents:

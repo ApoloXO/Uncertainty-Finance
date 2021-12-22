@@ -1,5 +1,5 @@
-# Uncertainty-Finance
-European options risk by uncertainty theory  
+# Uncertain Finance
+European options risks by uncertainty theory  
 Created on Jan 1 2022  
 Author: Carlos A. Grajales  
 Professor at Universidad de Antioquia, Medellín, Colombia  

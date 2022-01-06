@@ -5,12 +5,14 @@
 % @author: Carlos Alexander Grajales
 % Universidad de Antioquia, Medellín, Colombia
 % alexander.grajales@udea.edu.co
-% *****************************
+% **********************************************************
 %
 % See working paper:  
-% Uncertainty and stochastic theories on European options valuation and their delta and vega risks
-% .....(details to be announced soon)
-% *****************************
+% Uncertainty and stochastic theories on European options valuation
+% ... and their delta and vega risks.
+% Grajales - Medina - Mongrut, January 1, 2022 
+% Available at SSRN: https://ssrn.com/abstract=3998282
+% **********************************************************
 
 % Stochastic model, BSM: dX_t = r X_t dt + sigma X_t dW_t (1)
 % Uncertain model, Liu: dX_t = e X_t dt + sigma X_t dC_t  (2)
